@@ -1,0 +1,5 @@
+ The orders performed between 0:00 and 24:00 :
+Order{orderId= 1, clientId= 6, orderTime= 18/05/2022 21:10}
+Order{orderId= 2, clientId= 6, orderTime= 18/05/2022 21:15}
+Order{orderId= 3, clientId= 6, orderTime= 18/05/2022 21:15}
+Order{orderId= 4, clientId= 6, orderTime= 18/05/2022 22:57}

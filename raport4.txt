@@ -1,0 +1,6 @@
+Products that have been ordered in 2022-05-18:
+TITLE: ggg RATING: 1.0 CALORIES: 1.0 PROTEIN: 1.0 FAT: 1.0 SODIUM: 1.0 PRICE: 1.0 was ordered 1 times.
+TITLE: T RATING: 2.0 CALORIES: 22.0 PROTEIN: 2.0 FAT: 2.0 SODIUM: 2.0 PRICE: 2.0 was ordered 1 times.
+TITLE: Quick & Spicy Asian Pickles  RATING: 5.0 CALORIES: 23.0 PROTEIN: 1.0 FAT: 0.0 SODIUM: 128.0 PRICE: 48.0 was ordered 2 times.
+TITLE: Fresh Corn Tortillas  RATING: 3.75 CALORIES: 23.0 PROTEIN: 1.0 FAT: 2.0 SODIUM: 61.0 PRICE: 79.0 was ordered 2 times.
+TITLE: Ethiopian Spice Tea  RATING: 5.0 CALORIES: 23.0 PROTEIN: 1.0 FAT: 0.0 SODIUM: 13.0 PRICE: 49.0 was ordered 1 times.

@@ -1,0 +1,2 @@
+Users that have atleast 2 orders with value over 10.0:
+c has ordered 4 times.
